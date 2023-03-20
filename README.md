@@ -27,7 +27,8 @@ for a complete file)
 ```
 
 **Note**: pgAdmin takes some time to startup, therefore
-the [`container-wait-time`]() parameter must be changed to a higher value, e.g.:
+the [`container-wait-time`](https://shinyproxy.io/documentation/configuration/#container-wait-time)
+parameter must be changed to a higher value, e.g.:
 
 ```yaml
 proxy:
